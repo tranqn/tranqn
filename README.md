@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" width="100vw" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Quoc%20Nam%20Tran&textBg=false"  />
+  <img height="150" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Quoc%20Nam%20Tran&textBg=false"  />
 </div>
 
 ###

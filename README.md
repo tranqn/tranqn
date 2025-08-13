@@ -1,4 +1,4 @@
-<p align="left">Hi 👋. I am currently launching my career in Fullstack Web Development. <br>Let's keep in touch and collaborate together 🥳</p>
+<p align="center">Hi 👋 <br> I am currently launching my career in Fullstack Web Development <br>Let's keep in touch and collaborate together 🥳</p>
 
 ###
 

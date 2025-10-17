@@ -16,7 +16,7 @@ Always exploring modern web technologies and clean, maintainable code.
 ### 👨‍💻 About Me
 
 - 🎯 **Goal:** Becoming a highly skilled Fullstack Developer capable of crafting impactful digital experiences.  
-- 💡 **Focus:** JavaScript, React, Next.js, Node.js, and Django.  
+- 💡 **Focus:** JavaScript, Angular, Node.js, and Django.  
 - 🧠 **Learning:** Advanced backend architecture & scalable cloud deployment.  
 - 🏐 **Fun fact:** When I’m not coding, I’m probably on the volleyball court!  
 - 💬 **Let’s connect and collaborate —** I’m always open to new ideas and opportunities.  

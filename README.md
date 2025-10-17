@@ -1,52 +1,66 @@
+<!-- HEADER -->
 <div align="center">
-  <img height="150" max-width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Quoc%20Nam%20Tran&textBg=false"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Quoc%20Nam%20Tran%20👨‍💻&fontSize=45&fontAlignY=40" />
 </div>
 
-###
+<!-- INTRO -->
+<h2 align="center">Hey there 👋 I'm Nam — a Fullstack Web Developer from Germany 🇩🇪</h2>
 
-<h1 align="center">Hey! there 👋</h1>
+<p align="center">
+🚀 Passionate about building interactive, performant, and scalable web applications.  
+Always exploring modern web technologies and clean, maintainable code.
+</p>
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 👨‍💻 About Me
 
-###
+- 🎯 **Goal:** Becoming a highly skilled Fullstack Developer capable of crafting impactful digital experiences.  
+- 💡 **Focus:** JavaScript, React, Next.js, Node.js, and Django.  
+- 🧠 **Learning:** Advanced backend architecture & scalable cloud deployment.  
+- 🏐 **Fun fact:** When I’m not coding, I’m probably on the volleyball court!  
+- 💬 **Let’s connect and collaborate —** I’m always open to new ideas and opportunities.  
 
-<p align="left">I'm  Nam 🤓 from Germany 🇩🇪<br><br>- 📚 I am currently launching my career in Fullstack Web Development<br>- 🏐 In my free time I play Volleyball <br><br>Let's keep in touch and collaborate together 🥳</p>
+---
 
-###
-
-<div align="start">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+### 🌐 Connect with Me
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+  <a href="mailto:YOUR.EMAIL@EXAMPLE.COM">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+  <a href="https://YOUR-PORTFOLIO-URL.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" height="28" />
+  </a>
 </div>
 
-###
+---
 
-<h3 align="left">🍣 Tasty Commits</h3>
+### 🛠 Tech Stack
 
-###
+<div align="center">
+  <!-- Core -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django" />
+  <br />
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,docker,postgresql,mongodb" />
+</div>
+
+---
+
+### ⚡ GitHub Highlights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tranqn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranqn&theme=radical&hide_border=true" height="160" />
+</div>
+
+---
+
+### 🍣 Tasty Commits
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tranqn/tranqn/output/pacman-contribution-graph-dark.svg">
@@ -54,4 +68,16 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tranqn/tranqn/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
+
+### 🧭 Current Focus
+
+> 🛠 Building personal projects that demonstrate fullstack proficiency — from RESTful APIs to responsive frontends.  
+> 🌱 Exploring TypeScript, Next.js App Router, and modern UI frameworks (TailwindCSS, shadcn/ui).  
+> 💼 Preparing for opportunities in web development for 2025 and beyond.
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</div>

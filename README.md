@@ -26,10 +26,10 @@ Always exploring modern web technologies and clean, maintainable code.
 ### 🌐 Connect with Me
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/tranqn/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="28" />
   </a>
-  <a href="mailto:YOUR.EMAIL@EXAMPLE.COM">
+  <a href="mailto:tran.qn@protonmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="28" />
   </a>
   <a href="https://YOUR-PORTFOLIO-URL.com" target="_blank">
@@ -43,7 +43,7 @@ Always exploring modern web technologies and clean, maintainable code.
 
 <div align="center">
   <!-- Core -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,django" />
   <br />
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,docker,postgresql,mongodb" />

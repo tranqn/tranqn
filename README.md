@@ -51,15 +51,6 @@ Always exploring modern web technologies and clean, maintainable code.
 
 ---
 
-### ⚡ GitHub Highlights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tranqn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranqn&theme=radical&hide_border=true" height="160" />
-</div>
-
----
-
 ### 🍣 Tasty Commits
 
 <picture>

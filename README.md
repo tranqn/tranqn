@@ -51,16 +51,6 @@ Always exploring modern web technologies and clean, maintainable code.
 
 ---
 
-### 🍣 Tasty Commits
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tranqn/tranqn/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tranqn/tranqn/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tranqn/tranqn/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
 ### 🧭 Current Focus
 
 > 🛠 Building personal projects that demonstrate fullstack proficiency — from RESTful APIs to responsive frontends.  

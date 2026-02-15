@@ -4,7 +4,7 @@
 </div>
 
 <!-- INTRO -->
-<h2 align="center">Hey there 👋 I'm Nam — a Fullstack Web Developer from Germany 🇩🇪</h2>
+<h2 align="center">Hey there 👋 I'm Nam a Fullstack Web Developer from Germany 🇩🇪</h2>
 
 <p align="center">
 🚀 Passionate about building interactive, performant, and scalable web applications.  
@@ -19,7 +19,7 @@ Always exploring modern web technologies and clean, maintainable code.
 - 💡 **Focus:** JavaScript, Angular, Node.js, and Django.  
 - 🧠 **Learning:** Advanced backend architecture & scalable cloud deployment.  
 - 🏐 **Fun fact:** When I’m not coding, I’m probably on the volleyball court!  
-- 💬 **Let’s connect and collaborate —** I’m always open to new ideas and opportunities.  
+- 💬 **Let’s connect and collaborate** I’m always open to new ideas and opportunities.  
 
 ---
 

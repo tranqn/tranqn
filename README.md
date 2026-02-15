@@ -53,7 +53,7 @@ Always exploring modern web technologies and clean, maintainable code.
 
 ### 🧭 Current Focus
 
-> 🛠 Building personal projects that demonstrate fullstack proficiency — from RESTful APIs to responsive frontends.  
+> 🛠 Building personal projects that demonstrate fullstack proficiency from RESTful APIs to responsive frontends.  
 > 🌱 Exploring TypeScript, Next.js App Router, and modern UI frameworks (TailwindCSS, shadcn/ui).  
 > 💼 Preparing for opportunities in web development for 2025 and beyond.
 

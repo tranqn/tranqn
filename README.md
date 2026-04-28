@@ -7,13 +7,13 @@
 <h2 align="center">Hey there 👋 I'm Nam a Fullstack Web Developer from Germany 🇩🇪</h2>
 
 <p align="center">
-🚀 Passionate about building interactive, performant, and scalable web applications.  
+Passionate about building interactive, performant, and scalable web applications.  
 Always exploring modern web technologies and clean, maintainable code.
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 - 🎯 **Goal:** Becoming a highly skilled Fullstack Developer capable of crafting impactful digital experiences.  
 - 💡 **Focus:** JavaScript, Angular, Node.js, and Django.  
@@ -23,7 +23,7 @@ Always exploring modern web technologies and clean, maintainable code.
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/tranqn/" target="_blank">
@@ -51,11 +51,11 @@ Always exploring modern web technologies and clean, maintainable code.
 
 ---
 
-### 🧭 Current Focus
+### Current Focus
 
-> 🛠 Building personal projects that demonstrate fullstack proficiency from RESTful APIs to responsive frontends.  
-> 🌱 Exploring TypeScript, Next.js App Router, and modern UI frameworks (TailwindCSS, shadcn/ui).  
-> 💼 Preparing for opportunities in web development for 2025 and beyond.
+> Building personal projects that demonstrate fullstack proficiency from RESTful APIs to responsive frontends.  
+> Exploring TypeScript, Next.js App Router, and modern UI frameworks (TailwindCSS, shadcn/ui).  
+> Preparing for opportunities in web development for 2026 and beyond.
 
 ---
 

@@ -3,8 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Quoc%20Nam%20Tran&fontSize=48&fontAlignY=38&desc=Fullstack%20Web%20Developer&descAlignY=60&descSize=18" />
 </div>
 
-<h3 align="center">Fullstack developer building web apps with Angular, React &amp; TypeScript. Based in Germany 🇩🇪</h3>
-<p align="center"><i>Open to web developer roles for 2026</i></p>
+<h3 align="center">Fullstack developer building with React, Angular, TypeScript and Django. Based in Germany 🇩🇪</h3>
+<p align="center"><i>Open to junior &amp; working-student developer roles for 2026</i></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tranqn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" height="26" /></a>
@@ -12,62 +12,74 @@
   <a href="https://quocnamtran.com"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=flat-square" height="26" /></a>
 </p>
 
+<p align="center">
+I build web apps end to end: frontend, backend, and the AI features in between.<br />
+Modern TypeScript stack, real tests, and a focus on shipping things that solve the problem.
+</p>
+
 ---
 
-### About
+### Tech stack
 
-I'm Nam, a fullstack developer based in Germany. I build web apps with Angular and React/Next.js on the frontend and Node on the backend, mostly in TypeScript.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,angular,js,python,django,html,css&perline=10" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=tailwind,postgresql,mongodb,firebase,docker,githubactions,threejs,git,github,vitest,vscode,figma&perline=12" />
+</div>
 
-What I enjoy is turning a rough idea into something people can actually use. My own site, [quocnamtran.com](https://quocnamtran.com), is a good example: I built it in Angular 20, in both German and English, with the SEO and structure done from scratch. I care more about whether a feature solves the problem than how clever the code looks. Off the keyboard, I'm usually on a volleyball court.
+- **Frontend:** React · Next.js · Angular · TypeScript · Tailwind CSS
+- **Backend:** Django REST Framework · Node.js · Python · REST APIs (token auth)
+- **Databases:** PostgreSQL · MongoDB · Firebase
+- **DevOps:** Docker · Docker Compose · GitHub Actions CI · Nginx / Caddy
+- **Testing:** Vitest · Playwright · pytest · accessibility (axe) · Lighthouse CI
+- **AI in apps:** Google Gemini API · Hugging Face Transformers · embedding-based recommendations
+- **AI workflow:** Claude Code · Claude Skills · spec-driven development
 
-**What I'm doing now:**
-- Shipping real projects with live demos (most recently a 3D Pokédex built in Next.js, below)
-- Going deeper into React, Next.js and automated testing, on top of a solid Angular base
-- Looking for my first developer role in 2026, where I can own features from idea to production
+---
+
+### How I work
+
+AI is part of my daily toolchain, not a gimmick. What matters is using it well.
+
+- **Claude Code** runs in my terminal every day for refactoring, writing tests, and tracking down bugs across a whole codebase.
+- I write my own **Claude Skills** to automate the repetitive parts: project setup, commit messages, review checklists.
+- I work **spec-first**. I write down what "done" means and the acceptance criteria before any code, so the AI has something real to build against and I can check the result.
+- I read every line the AI writes. I review it, test it, and catch the mistakes before they reach a pull request.
+
+The goal is simple: ship more, and ship it correct. You can see the habit in my repos: typed code, clean structure, and real tests instead of "works on my machine."
 
 ---
 
 ### Selected work
 
-Three live projects you can try right in the browser:
+A few projects worth a look, with live demos and source linked:
+
+**[Bookstore](https://github.com/tranqn/bookstore)** &nbsp;·&nbsp; Angular 21 with built-in AI
+A bilingual bookstore with a 74-book catalog and a Three.js 3D bookshelf. Its AI recommender degrades gracefully: Gemini first, then a local embedding model, then a keyword fallback, all behind a server-side API layer. Server-side rendered, installable as an app, with accessibility and Lighthouse checks running in CI.
+`Angular 21` `TypeScript` `SSR` `Three.js` `Gemini + Hugging Face`
+
+**[Coderr](https://github.com/tranqn/coderr)** &nbsp;·&nbsp; Django REST backend, Dockerized
+A Fiverr-style service marketplace. I wrote the REST API from scratch with token auth and seven domain modules, then shipped it as a single Docker image (Nginx + Gunicorn) with a production setup running PostgreSQL behind Caddy. Tested with pytest.
+`Django` `DRF` `PostgreSQL` `Docker` `pytest`
 
 **[Pokédex Holo TCG](https://pokedex.quocnamtran.com)** &nbsp;·&nbsp; [view code](https://github.com/tranqn/pokedex-holo-tcg)
-All 1025 Pokémon shown as holographic trading cards you can open and tilt in 3D. Built as a fast, installable web app in English and German, with automated tests.
+All 1025 Pokémon shown as holographic trading cards you can open and tilt in 3D. A fast, installable web app in English and German, with automated tests.
 `Next.js` `React` `TypeScript` `Three.js` `Tailwind`
 
 **[Join, a Kanban task manager](https://join.quocnamtran.com)** &nbsp;·&nbsp; [view code](https://github.com/tranqn/join)
 A drag-and-drop board for managing tasks and contacts. Team project where I built and owned the entire frontend.
 `JavaScript` `HTML` `CSS` `Firebase`
 
-**[El Pollo Loco](https://pollo-loco.quocnamtran.com)** &nbsp;·&nbsp; [view code](https://github.com/tranqn/Pollo_Loco)
-A jump-and-run game built from scratch in plain JavaScript, no framework. This is where I built strong fundamentals: game logic, animation and state, all written by hand.
-`JavaScript` `OOP` `HTML` `CSS`
-
 ---
 
-### How I work
+### A bit about me
 
-I start with a spec, not a blank file. I decide what "done" looks like first, then build to it. It keeps the work focused and the surprises few.
+I'm Nam, a fullstack developer based in Germany. What I enjoy is turning a rough idea into something people can actually use. My own site, [quocnamtran.com](https://quocnamtran.com), is a good example: I built it in Angular 20, in both German and English, with the SEO and structure done from scratch. Off the keyboard, I'm usually on a volleyball court.
 
-The same approach shapes how I use AI every day:
-
-- **Claude Code** in my terminal for refactoring, writing tests, and tracking down bugs across the whole codebase.
-- My own **Claude Skills** to automate the repetitive parts: project setup, commit messages, review checklists.
-- **Spec-driven development**, so the plan and the finished code stay in sync.
-
-The tools are not the point. Shipping software that works, and shipping it faster, is. You can see the habit in my repos: typed code, clean structure, and real tests instead of "works on my machine."
-
----
-
-### Tech
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,angular,react,nextjs,nodejs,python,django&perline=10" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=tailwind,firebase,threejs,postgresql,mongodb,docker,git,github,linux,vscode,figma,vitest&perline=12" />
-  <br />
-  <sub>Plus automated testing (Vitest, Playwright), 3D with React Three Fiber, and multi-language &amp; SEO work</sub>
-</div>
+**What I'm doing now:**
+- Building fullstack projects with real backends and in-app AI, all linked above
+- Learning cloud deployment on Google Cloud (Cloud Run, managed PostgreSQL, CI/CD)
+- Looking for my first developer role in 2026, where I can own features from idea to production
 
 ---
 

@@ -4,7 +4,7 @@
 </div>
 
 <h3 align="center">Building web apps with Angular, React &amp; TypeScript — based in Germany 🇩🇪</h3>
-<p align="center"><i>Open to junior &amp; working-student developer roles for 2026</i></p>
+<p align="center"><i>Open to web developer roles for 2026</i></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tranqn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" height="26" /></a>

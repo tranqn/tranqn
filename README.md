@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Quoc%20Nam%20Tran&fontSize=48&fontAlignY=38&desc=Fullstack%20Web%20Developer&descAlignY=60&descSize=18" />
 </div>
 
-<h3 align="center">Building web apps with Angular, React &amp; TypeScript — based in Germany 🇩🇪</h3>
+<h3 align="center">Fullstack developer building web apps with Angular, React &amp; TypeScript. Based in Germany 🇩🇪</h3>
 <p align="center"><i>Open to web developer roles for 2026</i></p>
 
 <p align="center">
@@ -16,44 +16,46 @@
 
 ### About
 
-I'm Nam, a fullstack developer based in Germany. I build for the web with Angular and React/Next.js on the frontend and Node on the backend, and I'm most at home in TypeScript.
+I'm Nam, a fullstack developer based in Germany. I build web apps with Angular and React/Next.js on the frontend and Node on the backend, mostly in TypeScript.
 
-The part I actually enjoy is the messy middle of a project — taking a rough idea and turning it into something people can click through and use. My own site, [quocnamtran.com](https://quocnamtran.com), is a fair example of how I work: Angular 20 with signal-based state, full DE/EN translation, and an SEO- and service-driven architecture I wrote from scratch. I care more about whether a feature solves the problem than how clever the code looks getting there. Off the keyboard, I'm usually on a volleyball court.
+What I enjoy is turning a rough idea into something people can actually use. My own site, [quocnamtran.com](https://quocnamtran.com), is a good example: I built it in Angular 20, in both German and English, with the SEO and structure done from scratch. I care more about whether a feature solves the problem than how clever the code looks. Off the keyboard, I'm usually on a volleyball court.
 
-**Right now I'm:**
-- Shipping real projects with live demos — most recently a fully-tested 3D Pokédex in Next.js (below)
-- Deepening React/Next.js and testing (Vitest + Playwright) on top of a solid Angular base
-- Working toward my first dev role in 2026 — and toward owning features from spec all the way to production
+**What I'm doing now:**
+- Shipping real projects with live demos (most recently a 3D Pokédex built in Next.js, below)
+- Going deeper into React, Next.js and automated testing, on top of a solid Angular base
+- Looking for my first developer role in 2026, where I can own features from idea to production
 
 ---
 
 ### Selected work
 
-**[Pokédex Holo TCG](https://pokedex.quocnamtran.com)** · [code](https://github.com/tranqn/pokedex-holo-tcg)
-All 1025 Pokémon from the PokéAPI rebuilt as holographic trading cards — open one and it tilts in 3D to your mouse. Server-rendered first paint, then the client takes over search, type/generation filters, evolution chains and a compare mode. Bilingual EN/DE, offline-capable PWA, unit + end-to-end tested.
-`Next.js` · `React` · `TypeScript` · `Three.js / React Three Fiber` · `Tailwind`
+Three live projects you can try right in the browser:
 
-**[Join — Kanban task manager](https://join.quocnamtran.com)** · [code](https://github.com/tranqn/join)
-Drag-and-drop board for organising tasks, contacts and categories. Team project where I owned the frontend end to end and kept the whole thing responsive across breakpoints.
-`JavaScript` · `HTML` · `CSS` · `Firebase`
+**[Pokédex Holo TCG](https://pokedex.quocnamtran.com)** &nbsp;·&nbsp; [view code](https://github.com/tranqn/pokedex-holo-tcg)
+All 1025 Pokémon shown as holographic trading cards you can open and tilt in 3D. Built as a fast, installable web app in English and German, with automated tests.
+`Next.js` `React` `TypeScript` `Three.js` `Tailwind`
 
-**[El Pollo Loco](https://pollo-loco.quocnamtran.com)** · [code](https://github.com/tranqn/Pollo_Loco)
-A jump-and-run game built from scratch: an object-oriented game engine with collision detection, sprite animation and state management. No framework, on purpose — it's where I got my JavaScript fundamentals solid.
-`JavaScript` · `OOP` · `HTML` · `CSS`
+**[Join, a Kanban task manager](https://join.quocnamtran.com)** &nbsp;·&nbsp; [view code](https://github.com/tranqn/join)
+A drag-and-drop board for managing tasks and contacts. Team project where I built and owned the entire frontend.
+`JavaScript` `HTML` `CSS` `Firebase`
+
+**[El Pollo Loco](https://pollo-loco.quocnamtran.com)** &nbsp;·&nbsp; [view code](https://github.com/tranqn/Pollo_Loco)
+A jump-and-run game built from scratch in plain JavaScript, no framework. This is where I built strong fundamentals: game logic, animation and state, all written by hand.
+`JavaScript` `OOP` `HTML` `CSS`
 
 ---
 
 ### How I work
 
-I start from a spec, not an empty file. Before any code, I pin down what "done" means — the data model, the interfaces, the edge cases — and build against that. It stops scope from drifting and makes the implementation itself the predictable part.
+I start with a spec, not a blank file. I decide what "done" looks like first, then build to it. It keeps the work focused and the surprises few.
 
-That lines up with how I use AI day-to-day:
+The same approach shapes how I use AI every day:
 
-- **Claude Code** lives in my terminal — refactoring across a whole codebase, scaffolding tests, and chasing down bugs that span more than one file.
-- **Claude Skills** — I write my own to take the repetitive work off my plate: project setup, commit conventions, the review checklist I always forget to run. The tooling bends to how I work, not the other way around.
-- **Spec-driven development** — the spec doubles as documentation and as the context I hand the model, so the plan and the actual implementation don't drift apart.
+- **Claude Code** in my terminal for refactoring, writing tests, and tracking down bugs across the whole codebase.
+- My own **Claude Skills** to automate the repetitive parts: project setup, commit messages, review checklists.
+- **Spec-driven development**, so the plan and the finished code stay in sync.
 
-None of this is tooling for its own sake — it's about shipping correct software faster, with fewer surprises in review. You'll see the same habit in my repos: typed models, isolated services, and real unit + e2e tests instead of "works on my machine."
+The tools are not the point. Shipping software that works, and shipping it faster, is. You can see the habit in my repos: typed code, clean structure, and real tests instead of "works on my machine."
 
 ---
 
@@ -64,7 +66,7 @@ None of this is tooling for its own sake — it's about shipping correct softwar
   <br />
   <img src="https://skillicons.dev/icons?i=tailwind,firebase,threejs,postgresql,mongodb,docker,git,github,linux,vscode,figma,vitest&perline=12" />
   <br />
-  <sub>Testing with Vitest · Playwright · Karma/Jasmine — plus React Three Fiber, ngx-translate (i18n) and PWA/SEO work</sub>
+  <sub>Plus automated testing (Vitest, Playwright), 3D with React Three Fiber, and multi-language &amp; SEO work</sub>
 </div>
 
 ---
@@ -79,11 +81,11 @@ None of this is tooling for its own sake — it's about shipping correct softwar
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tranqn/">LinkedIn</a> ·
-  <a href="mailto:tran.qn@protonmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/tranqn/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:tran.qn@protonmail.com">Email</a> &nbsp;·&nbsp;
   <a href="https://quocnamtran.com">Portfolio</a>
   <br />
-  <sub>Open to new ideas and the right team. Say hi.</sub>
+  <sub>Open to new ideas and the right team. Let's talk.</sub>
 </p>
 
 <div align="center">

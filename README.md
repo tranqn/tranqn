@@ -54,13 +54,13 @@ The goal is simple: ship more, and ship it correct. You can see the habit in my 
 
 A few projects worth a look, with live demos and source linked:
 
-**[Bookstore](https://github.com/tranqn/bookstore)** &nbsp;·&nbsp; Angular 21 with built-in AI
-A bilingual bookstore with a 74-book catalog and a Three.js 3D bookshelf. Its AI recommender degrades gracefully: Gemini first, then a local embedding model, then a keyword fallback, all behind a server-side API layer. Server-side rendered, installable as an app, with accessibility and Lighthouse checks running in CI.
-`Angular 21` `TypeScript` `SSR` `Three.js` `Gemini + Hugging Face`
+**[Videoflix](https://videoflix.quocnamtran.com)** &nbsp;·&nbsp; [view code](https://github.com/tranqn/videoflix)
+A Netflix-style video streaming platform. Upload a video and a Redis-queued worker transcodes it into three HLS quality levels in the background, while the whole API sits behind JWT auth carried in HttpOnly cookies. Deployed in Docker behind Caddy.
+`Django REST` `Redis / RQ` `FFmpeg` `Docker` `Caddy`
 
-**[Coderr](https://github.com/tranqn/coderr)** &nbsp;·&nbsp; Django REST backend, Dockerized
-A Fiverr-style service marketplace. I wrote the REST API from scratch with token auth and seven domain modules, then shipped it as a single Docker image (Nginx + Gunicorn) with a production setup running PostgreSQL behind Caddy. Tested with pytest.
-`Django` `DRF` `PostgreSQL` `Docker` `pytest`
+**[Quizly](https://quizly.quocnamtran.com)** &nbsp;·&nbsp; [view code](https://github.com/tranqn/quizly)
+Turns any YouTube video into a 10-question quiz. The backend pulls the audio, transcribes it with Whisper, and hands the transcript to Gemini to generate the questions, all behind the same cookie-based JWT auth as Videoflix.
+`Django REST` `Whisper` `Gemini` `Docker`
 
 **[Pokédex Holo TCG](https://pokedex.quocnamtran.com)** &nbsp;·&nbsp; [view code](https://github.com/tranqn/pokedex-holo-tcg)
 All 1025 Pokémon shown as holographic trading cards you can open and tilt in 3D. A fast, installable web app in English and German, with automated tests.

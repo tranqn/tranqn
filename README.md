@@ -83,15 +83,6 @@ I'm Nam, a fullstack developer based in Germany. What I enjoy is turning a rough
 
 ---
 
-### GitHub at a glance
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tranqn&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranqn&layout=compact&hide_border=true&theme=tokyonight" />
-</div>
-
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/tranqn/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:tran.qn@protonmail.com">Email</a> &nbsp;·&nbsp;

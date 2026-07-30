@@ -62,13 +62,17 @@ A Netflix-style video streaming platform. Upload a video and a Redis-queued work
 Turns any YouTube video into a 10-question quiz. The backend pulls the audio, transcribes it with Whisper, and hands the transcript to Gemini to generate the questions, all behind the same cookie-based JWT auth as Videoflix.
 `Django REST` `Whisper` `Gemini` `Docker`
 
+**[Bookstore](https://bookstore.quocnamtran.com)** &nbsp;·&nbsp; [view code](https://github.com/tranqn/bookstore)
+A bilingual bookstore rendered on the server, with a Three.js wall of covers you can pan through. Ask it for a book by mood and it answers in three tiers: Gemini first, then an embedding model running locally on the server, then a keyword search, so a query never comes back empty. Accessibility and performance budgets run on every push.
+`Angular 21` `SSR` `TypeScript` `Three.js` `Gemini` `Docker`
+
 **[Pokédex Holo TCG](https://pokedex.quocnamtran.com)** &nbsp;·&nbsp; [view code](https://github.com/tranqn/pokedex-holo-tcg)
 All 1025 Pokémon shown as holographic trading cards you can open and tilt in 3D. A fast, installable web app in English and German, with automated tests.
 `Next.js` `React` `TypeScript` `Three.js` `Tailwind`
 
 **[Join, a Kanban task manager](https://join.quocnamtran.com)** &nbsp;·&nbsp; [view code](https://github.com/tranqn/join)
-A drag-and-drop board for managing tasks and contacts. Team project where I built and owned the entire frontend.
-`JavaScript` `HTML` `CSS` `Firebase`
+A drag-and-drop board for managing tasks and contacts, synced through Firebase with owner-scoped Firestore rules. Team project where I built and owned the entire frontend.
+`Angular` `TypeScript` `Firebase` `Firestore`
 
 ---
 
@@ -78,7 +82,7 @@ I'm Nam, a fullstack developer based in Germany. What I enjoy is turning a rough
 
 **What I'm doing now:**
 - Building fullstack projects with real backends and in-app AI, all linked above
-- Learning cloud deployment on Google Cloud (Cloud Run, managed PostgreSQL, CI/CD)
+- Running my own deployments on Google Cloud: a Compute Engine VM with Docker and Caddy handling TLS, hosting the Bookstore above
 - Looking for my first developer role in 2026, where I can own features from idea to production
 
 ---

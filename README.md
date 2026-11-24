@@ -1,10 +1,31 @@
-# Quóc Nam Tràn
+<!-- HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Qu%C3%B3c%20Nam%20Tr%C3%A0n&fontSize=48&fontAlignY=38&desc=Fullstack%20Developer%20%C2%B7%20Frontend%20Focus&descAlignY=60&descSize=18" />
+</div>
 
-**Fullstack developer with a frontend focus.** I build web applications with React, Angular and TypeScript, write the APIs behind them in Python/Django and Node.js, and deploy them on my own server.
+<h3 align="center">Fullstack developer with a frontend focus. Based in Saxony, Germany 🇩🇪</h3>
+<p align="center"><i>Open to roles in Saxony, Berlin or remote within Germany</i></p>
 
-Open to roles in Saxony, Berlin or remote within Germany.
+<p align="center">
+  <a href="https://www.linkedin.com/in/tranqn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" height="26" /></a>
+  <a href="mailto:tran.qn@protonmail.com"><img src="https://img.shields.io/badge/Email-6D4AFF?logo=protonmail&logoColor=white&style=flat-square" height="26" /></a>
+  <a href="https://quocnamtran.com/en"><img src="https://img.shields.io/badge/Portfolio-0F5E8C?logo=googlechrome&logoColor=white&style=flat-square" height="26" /></a>
+</p>
 
-[Portfolio](https://quocnamtran.com/en) · [LinkedIn](https://www.linkedin.com/in/tranqn/) · [Email](mailto:tran.qn@protonmail.com)
+<p align="center">
+I build web applications with React, Angular and TypeScript,<br />
+write the APIs behind them in Python/Django and Node.js, and deploy them on my own server.
+</p>
+
+---
+
+### Tech stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,vue,html,css,tailwind,threejs&perline=10" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,django,postgres,redis,firebase,docker,githubactions,gitlab,vitest,git&perline=11" />
+</div>
 
 ---
 
@@ -33,3 +54,17 @@ More on GitHub: [Bookstore](https://github.com/tranqn/bookstore) (Angular SSR, a
 ### How I work
 
 I write down the expected behaviour and acceptance criteria first, then let Claude Code and Codex implement and review each other within that scope. I approve the plan before any code exists and sign off only after checking the scenarios that matter myself, as in this [Praxis UI Lab example](https://quocnamtran.com/en#arbeitsweise).
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tranqn/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:tran.qn@protonmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://quocnamtran.com/en">Portfolio</a>
+  <br />
+  <sub>Open to new ideas and the right team. Let's talk.</sub>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</div>
